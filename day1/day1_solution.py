@@ -13,5 +13,10 @@ for it_var1 in expenses:
             Answer = int(expenses[it_var1]*expenses[it_var2])
 print(Answer)
 
+for it_var1 in expenses:
+    for it_var2 in expenses:
+        for it_var3 in expenses:
+            
+
 
 
